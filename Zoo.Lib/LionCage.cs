@@ -19,7 +19,5 @@ namespace Zoo.Lib
             Lions.Add(lion2);
             Lions.Add(lion3);
         }
-
-
     }
 }
